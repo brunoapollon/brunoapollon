@@ -11,7 +11,7 @@
 - 🎮 playing with friends is my biggest fun
 - 🎬  watching movies and series is a way to enter other worlds
 - 👨‍💻 learning more about development in my spare time is also a hobby
-### 📈 my stats
+### 📈 my stats and languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ###  ✉ How to find me
