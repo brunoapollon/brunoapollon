@@ -1,5 +1,3 @@
-
-
 # S'up 🤙 I'm Bruno Lopes!
 
 <img src="https://i.pinimg.com/originals/25/8d/e6/258de6e09212931d30d5ca8683220b63.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Pega nois">
@@ -15,6 +13,6 @@
 - 👨‍💻 learning more about development in my spare time is also a hobby
 ### 📈 my stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ###  ✉ How to find me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/bruno-vinicius-azevedo-lopes/) [![Hotmail Badge](https://img.shields.io/badge/Gmail-1781EB?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1781EB)](mailto:eusoubruno7@gmail.com)
