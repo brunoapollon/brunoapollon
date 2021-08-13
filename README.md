@@ -14,7 +14,7 @@
 
 ## 📈 My stats and languages
 
-<img  align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical">
+<img width=60% align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical">
 <p>
  
 - 📕 <strong>A brief presentation about the languages that is used in my studies</strong>
