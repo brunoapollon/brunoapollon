@@ -1,6 +1,6 @@
 # S'up 🤙 I'm Bruno Lopes!
 
-<img style= "width: 100%;" src="https://i.imgur.com/ko3RNA5.gif">
+<img src="https://i.imgur.com/ko3RNA5.gif">
 
 <hr>
 <br>
