@@ -17,6 +17,7 @@
 ## 📈 my stats and languages
 <img  align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical">
 <p>
+ 
 - 📕 <strong>a brief presentation about the languages that is used in my studies</strong>
 - 📕 JavaScript and TypeScript are used in my studies about nodeJs, ReactJs and in my projects
 - 📕 c++ é uma linguagem que é utilizada nos meu estudos sobre estruturas de dados e estruturas de dados avançada
