@@ -1,9 +1,11 @@
 
 # S'up 🤙 I'm Bruno Lopes!
+
+<hr>
 <img width=100% src="https://i.imgur.com/mhti30e.gif">
 
 ## 👨‍💻 About me
- 
+<hr>
 <p>
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=D83A7C&style=for-the-badge&logo=GitHub">
 <img width=60% align='right'  src="https://camo.githubusercontent.com/ab51458da3ce41f9df52eb72c54ebe018c5b40f52a45bac6e3f9f51047ef1c4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6272756e6f61706f6c6c6f6e2673686f775f69636f6e733d74727565267468656d653d7261646963616c">
@@ -15,6 +17,8 @@
 
 
 ## 📈 my stats and languages
+
+<hr>
 <img  align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical">
 <p>
  
@@ -25,6 +29,8 @@
 </p>
 
 ## 🔧 my skills and tools
+
+<hr>
 
 <img  align="center"  alt="Bruno-Js"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img  align="center"  alt="Bruno-Ts"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img  align="center"  alt="Bruno-node"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><img  align="center"  alt="Bruno-react"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img  align="center"  alt="Bruno-vscode"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img  align="center"  alt="Bruno-yarn"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"><img  align="center"  alt="Bruno-post"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><img  align="center"  alt="Bruno-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
