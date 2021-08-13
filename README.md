@@ -1,6 +1,6 @@
 
 # S'up 🤙 I'm Bruno Lopes!
-<img width=100% src="https://i.pinimg.com/originals/d0/25/20/d0252032746d6bf1ea1a93182097352b.jpg">
+<img width=100% src="https://i.imgur.com/mhti30e.gif">
 
 ## 👨‍💻 About me
  
