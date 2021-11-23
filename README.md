@@ -42,5 +42,5 @@
 ## ✉ How to find me
 <p>
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/bruno-vinicius-azevedo-lopes/) [![Hotmail Badge](https://img.shields.io/badge/Gmail-AD1F1C?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=AD1F1C)](mailto:eusoubruno7@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=AD1F1C&labelColor=fff&fontcolor=AD1F1C)](https://instagram.com/brunoapollon?utm_medium=copy_link)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/bruno-vinicius-azevedo-lopes/) [![Hotmail Badge](https://img.shields.io/badge/Gmail-AD1F1C?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=AD1F1C)](mailto:eusoubruno7@gmail.com)
 </p>
