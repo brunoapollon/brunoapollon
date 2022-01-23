@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 <p>
-<img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=D83A7C&style=for-the-badge&logo=GitHub">
+<img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=5ED7F2&style=for-the-badge&logo=GitHub">
 <img width=60% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
 
 - ❤ I am passionate about backend and I dedicate my time studying more and more, I am aiming to become a fullstack developer
@@ -40,6 +40,12 @@
 - 🎬 Watching movies and series is a way to enter other worlds
 - 👨‍💻 Learning more about development in my spare time is also a hobby
 </p>
+
+
+## What am i listening to 🎵🔊
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eusoubruno7&cover_image=true&theme=default&bar_color=5ed7f2)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## ✉ How to find me
