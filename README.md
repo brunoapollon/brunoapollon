@@ -4,7 +4,7 @@
 ## 👨‍💻 About me
 <p>
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=5ED7F2&style=for-the-badge&logo=GitHub">
-<img width=60% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
+<img width=50% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
 
 - ❤ I am passionate about backend and I dedicate my time studying more and more, I am aiming to become a fullstack developer
 - 📚 i'm studying computer science at Federal University of Ceará.
@@ -14,7 +14,7 @@
 
 ## 📈 My stats and languages
 
-<img width=60% align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&langs_count=7&theme=react&hide_border=true">
+<img width=35% align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&langs_count=7&theme=react&hide_border=true">
 <p>
  
 - 📕 <strong>A brief presentation about the languages that is used in my studies</strong>
@@ -30,7 +30,16 @@
 
 <img  align="center"  alt="Bruno-Js"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img  align="center"  alt="Bruno-Ts"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img  align="center"  alt="Bruno-node"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><img  align="center"  alt="Bruno-react"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img  align="center"  alt="Bruno-vscode"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img  align="center"  alt="Bruno-yarn"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"><img  align="center"  alt="Bruno-post"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><img  align="center"  alt="Bruno-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
 
+## 🔥 My favorite repositories
 
+<div align="center">
+ <a href="https://github.com/brunoapollon/consuming-marvel-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoapollon&repo=consuming-marvel-api&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/brunoapollon/multiplica-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoapollon&repo=multiplica-api&theme=react&hide_border=true" />
+</a>
+</div>
 
 ## 🎮🎬👨‍💻 My hobbies
 
