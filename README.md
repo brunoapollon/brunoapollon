@@ -4,7 +4,7 @@
 ## 👨‍💻 About me
 <p>
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=D83A7C&style=for-the-badge&logo=GitHub">
-<img width=60% align='right'  src="https://camo.githubusercontent.com/ab51458da3ce41f9df52eb72c54ebe018c5b40f52a45bac6e3f9f51047ef1c4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6272756e6f61706f6c6c6f6e2673686f775f69636f6e733d74727565267468656d653d7261646963616c">
+<img width=60% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
 
 - ❤ I am passionate about backend and I dedicate my time studying more and more, I am aiming to become a fullstack developer
 - 📚 i'm studying computer science at Federal University of Ceará.
@@ -14,14 +14,17 @@
 
 ## 📈 My stats and languages
 
-<img width=60% align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&show_icons=true&theme=radical">
+<img width=60% align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&langs_count=7&theme=react&hide_border=true">
 <p>
  
 - 📕 <strong>A brief presentation about the languages that is used in my studies</strong>
 - 📕 JavaScript and TypeScript are used in my studies about nodeJs, ReactJs and in my projects
 - 📕 C++ is a language that is used in my studies on data structures and advanced data structures
 - 📕 Haskell is a language used in my studies of functional programming.
+
 </p>
+
+<br/>
 
 ## 🔧 My skills and tools
 
