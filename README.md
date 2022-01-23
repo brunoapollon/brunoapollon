@@ -1,4 +1,6 @@
-# S'up 🤙 I'm Bruno Lopes!
+<h1 align="center">
+S'up 🤙 I'm Bruno Lopes!
+</h1>
 <img width=100% src="https://i.imgur.com/mhti30e.gif">
 
 ## 👨‍💻 About me
