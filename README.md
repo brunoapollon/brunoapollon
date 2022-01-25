@@ -23,7 +23,7 @@ S'up 🤙 I'm Bruno Lopes!
 - 📕 JavaScript and TypeScript are used in my studies about nodeJs, ReactJs and in my projects
 - 📕 C++ is a language that is used in my studies on data structures and advanced data structures
 - 📕 Haskell is a language used in my studies of functional programming.
-- 📕 i'm currently learning about ruby.
+- 📕 i'm currently learning about ruby on rails.
 
 </p>
 
@@ -54,7 +54,7 @@ S'up 🤙 I'm Bruno Lopes!
 </p>
 
 
-## What am i listening to 🎵🔊
+## 🎵🔊 What am i listening to 
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=eusoubruno7&cover_image=true&theme=default&bar_color=5ed7f2)](https://spotify-github-profile.vercel.app/api/view?uid=eusoubruno7&redirect=true)
