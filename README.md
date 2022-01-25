@@ -23,6 +23,7 @@ S'up 🤙 I'm Bruno Lopes!
 - 📕 JavaScript and TypeScript are used in my studies about nodeJs, ReactJs and in my projects
 - 📕 C++ is a language that is used in my studies on data structures and advanced data structures
 - 📕 Haskell is a language used in my studies of functional programming.
+- 📕 i'm currently learning about ruby.
 
 </p>
 
