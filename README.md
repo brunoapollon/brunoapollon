@@ -31,7 +31,23 @@ S'up 🤙 I'm Bruno Lopes!
 
 ## 🔧 My skills and tools
 
-<img  align="center"  alt="Bruno-Js"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img  align="center"  alt="Bruno-Ts"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img  align="center"  alt="Bruno-node"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><img  align="center"  alt="Bruno-react"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img  align="center"  alt="Bruno-vscode"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><img  align="center"  alt="Bruno-yarn"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"><img  align="center"  alt="Bruno-post"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><img  align="center"  alt="Bruno-HTML"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><img  align="center"  alt="Bruno-CSS"  height="30"  width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![sc](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![pg](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🔥 My favorite repositories
 
@@ -63,5 +79,5 @@ S'up 🤙 I'm Bruno Lopes!
 ## ✉ How to find me
 <p>
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1781EB?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1781EB)](https://www.linkedin.com/in/bruno-vinicius-azevedo-lopes/) [![Hotmail Badge](https://img.shields.io/badge/Gmail-AD1F1C?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=AD1F1C)](mailto:eusoubruno7@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vinicius-azevedo-lopes/) [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eusoubruno7@gmail.com)
 </p>
