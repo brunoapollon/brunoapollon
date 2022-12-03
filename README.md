@@ -8,9 +8,9 @@ S'up 🤙 I'm Bruno Lopes!
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=5ED7F2&style=for-the-badge&logo=GitHub">
 <img width=50% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
 
-- ❤ I am passionate about backend and I dedicate my time studying more and more, I am aiming to become a fullstack developer
+- ❤ I've been passionate about development since I was 16
 - 📚 i'm studying computer science at Federal University of Ceará.
-- ⚡ Currently learning more about NodeJs and ReactJs<br/>
+ - ⚡ I'm currently a full stack developer @ <strong>Ifficient</strong><br/>
 </p>
 
 
