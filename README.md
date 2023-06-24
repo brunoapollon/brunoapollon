@@ -49,18 +49,6 @@ S'up 🤙 I'm Bruno Lopes!
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 🔥 My favorite repositories
-
-<div align="center">
- <a href="https://github.com/brunoapollon/consuming-marvel-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoapollon&repo=consuming-marvel-api&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/brunoapollon/multiplica-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoapollon&repo=multiplica-api&theme=react&hide_border=true" />
-</a>
-</div>
-
 ## 🎮🎬👨‍💻 My hobbies
 
 <p>
