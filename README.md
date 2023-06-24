@@ -3,29 +3,31 @@ S'up 🤙 I'm Bruno Lopes!
 </h1>
 <img width=100% src="https://i.imgur.com/mhti30e.gif">
 
-## 👨‍💻 About me
+## About me
 <p>
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=5ED7F2&style=for-the-badge&logo=GitHub">
-<img width=50% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
 
-- ❤ I've been passionate about development since I was 16
-- 📚 i'm studying computer science at Federal University of Ceará.
- - ⚡ I'm currently a full stack developer @ <strong>Ifficient</strong><br/>
+- I've been passionate about development since I was 16
+- i'm studying computer science at Federal University of Ceará.
+- I'm currently a full stack developer @ <strong>Ifficient</strong><br/>
 </p>
 
 
-## 📈 My stats and languages
+## 📈 My stats
+<br/>
+<div>
+ <img width=35% align='left'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&langs_count=7&theme=react&hide_border=true">
+ <img width=55% align='right'  src="https://github-readme-stats.vercel.app/api?username=brunoapollon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
+</div>
 
-<img width=35% align='right'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapollon&layout=compact&langs_count=7&theme=react&hide_border=true">
-<p>
- 
-- 📕 <strong>A brief presentation about the languages that is used in my studies</strong>
-- 📕 JavaScript and TypeScript are used in my studies about nodeJs, ReactJs and in my projects
-- 📕 C++ is a language that is used in my studies on data structures and advanced data structures
-- 📕 Haskell is a language used in my studies of functional programming.
-
-</p>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## 🔧 My skills and tools
@@ -48,16 +50,6 @@ S'up 🤙 I'm Bruno Lopes!
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🎮🎬👨‍💻 My hobbies
-
-<p>
-
-- 🎮 Playing with friends is my biggest fun
-- 🎬 Watching movies and series is a way to enter other worlds
-- 👨‍💻 Learning more about development in my spare time is also a hobby
-</p>
-
 
 ## 🎵🔊 What am i listening to 
 
