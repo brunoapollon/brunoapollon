@@ -7,9 +7,11 @@ S'up 🤙 I'm Bruno Lopes!
 <p>
 <img  src="https://img.shields.io/static/v1?label=Overview&message=Bruno Lopes&color=5ED7F2&style=for-the-badge&logo=GitHub">
 
-- I've been passionate about development since I was 16
-- i'm studying computer science at Federal University of Ceará.
-- I'm currently a full stack developer @ <strong>Ifficient</strong><br/>
+<p>
+ I'm a Full Stack Developer, currently focused on the Node and React techs. Since school developing apps and sites to compete in science fair with my team. Today I work at ifficient.
+</p>
+
+<br/>
 </p>
 
 
@@ -37,9 +39,12 @@ S'up 🤙 I'm Bruno Lopes!
 ![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white)
-![express](	https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![elastic](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![sc](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
